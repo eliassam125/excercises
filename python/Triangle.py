@@ -1,3 +1,5 @@
+
+# this is an excercise solution for exercism.org
 def equilateral(sides):
     if sides[0]==0 and sides[1]==0 and sides[2]==0:
         return False
