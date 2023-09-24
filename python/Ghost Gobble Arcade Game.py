@@ -1,3 +1,4 @@
+# this is an excercise solution for exercism.org
 """Functions for implementing the rules of the classic arcade game Pac-Man."""
 
 
